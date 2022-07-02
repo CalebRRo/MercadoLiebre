@@ -1,0 +1,28 @@
+.home__footer{
+    
+    font-family: var(--tipografiaFamilia);
+    font-size: 12px;
+}
+.home__footer i{
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: var(--colorCeleste);
+    text-align: center;
+}
+.home__footer__article--tarjeta{
+    padding: 60px 40px 0 40px;
+    text-align: center;
+}
+.home__footer__article--envio{
+    padding: 60px 40px 0 40px;
+    text-align: center;
+}
+.home__footer__article--seguridad{
+    padding: 60px 40px 0 40px;
+    text-align: center;
+}
+.home__footer__article--copy{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}

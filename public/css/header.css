@@ -1,0 +1,47 @@
+.home__header{
+    background-color: var(--colorAmarillo);
+}
+.home__header img{
+   height: 40px;
+   margin: 20px 0 5px 20px;
+}
+.home__header--buscar{
+    margin: 15px;
+}
+.home__header--cuotas{
+    text-align: center;
+    font-family: var(--tipografiaFamilia);
+    font-size: 12px;
+}
+.home__header--menu ul.uno {
+    font-family: var(--tipografiaFamilia);
+    font-size: 12px;
+    padding: 20px 0 0 0;
+}
+.home__header--menu ul.dos {
+    font-family: var(--tipografiaFamilia);
+    font-size: 12px;
+    padding: 20px 0 0 0;
+}
+.home__header--menu ul a{
+    text-decoration: none;
+    color: black;
+}
+
+.home__header__burger__menu{  
+    background-color: var(--colorCeleste);
+    color: var(--colorGrisClaro);
+    width: 40px;
+    height: 40px;
+    font-size: 25px;
+    border-radius: 5px;
+    border: none;
+    text-align: center;
+    margin: 5px auto 10px 140px;
+}
+.fa-bars{
+    margin: auto;
+}
+.fit-content{
+    width: auto;
+}
