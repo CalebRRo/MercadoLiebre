@@ -28,7 +28,7 @@
     color: black;
 }
 
-.home__header__burger__menu{  
+.home__header__burger__menu button{  
     background-color: var(--colorCeleste);
     color: var(--colorGrisClaro);
     width: 40px;
@@ -37,11 +37,5 @@
     border-radius: 5px;
     border: none;
     text-align: center;
-    margin: 5px auto 10px 140px;
-}
-.fa-bars{
-    margin: auto;
-}
-.fit-content{
-    width: auto;
+    margin: 15px auto 15px 140px;
 }
