@@ -1,3 +1,6 @@
+.home__header--menu{
+ display: none;
+}
 .home__header{
     background-color: var(--colorAmarillo);
 }
@@ -36,6 +39,27 @@
     font-size: 25px;
     border-radius: 5px;
     border: none;
-    text-align: center;
+    width: center;
     margin: 15px auto 15px 140px;
+}
+
+@media (min-width: 767px){
+    .home__header__burger__menu button{
+        display: none;
+       
+    }
+    .home__header{
+        box-shadow: 0px 0px 10px rgb(100, 100, 100);
+
+    }
+    .home__header--menu{
+        display: block;
+       }
+}
+
+@media (min-width: 1023px){
+    .home__header--menu{
+        display: block;
+       }
+    
 }

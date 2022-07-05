@@ -1,9 +1,30 @@
+.main__section img{
+    width: center;
+    width: 90%;
+}
+.main__footer i{
+   color: var(--colorVerde);
+    border: 1px solid var(--colorVerde);;
+    padding: 15px;
+    border-radius: 50%;
+    
+}
 .main__section__precio{
     font-size: 18px;
 }
 .main__section__descuento{
 font-size: 16px;
+color: var(--colorVerde);
 }
 .main__section__descripciones{
+    margin-top: 15px;
     font-size: 16px;
 }
+article{
+    margin: 10px;
+}
+.article__footer{ 
+  border-top: 1px solid #ebebeb;
+  margin: 15px;
+}
+
