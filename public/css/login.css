@@ -1,0 +1,29 @@
+.login__main__section{
+    display: flex;
+    justify-content: center;
+    background-color: var(--colorGrisClaro);
+}
+.conteiner__form{
+ margin: 20px;
+ width: 80%;
+}
+.form__box, .form__box__flex{
+    text-align: center;
+    padding: 10px;
+    text-decoration: none;
+}
+.form__input, select{
+    width: 80%;
+    height: 30px;
+    border-style: none;
+    border-radius: 5px;
+}
+.form__button__form__button--submit{
+    width: 80%;
+    background-color: var(--colorCeleste);
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+    height: 30px;
+}

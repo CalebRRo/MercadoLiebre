@@ -1,0 +1,39 @@
+.register__main__section{
+    display: flex;
+    justify-content: center;
+    background-color: var(--colorGrisClaro);   
+}
+
+
+.form__error__msg{
+    font-size: 10px;
+}
+.h5__fecha__data{
+    margin-bottom: 15px;
+}
+.from__box__checkbox h5{
+    text-align: center;
+    margin: 20px;
+}
+.from__perfilUsuario {
+    display: flex;
+    justify-content: space-around;
+    
+}
+.from__box__checkbox__interes{
+    display: flex;
+    flex-direction: column;
+}
+.from__box__checkbox__interes div{
+    margin: 0 0 10px 32px;
+}
+.form__button{
+    width: 80%;
+    background-color: var(--colorCeleste);
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    border-style: none;
+    height: 30px;
+}
+

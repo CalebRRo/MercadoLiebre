@@ -8,6 +8,7 @@
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;  
+    
 }
 .main__section__cafetera__article{
     padding-top: 10px;
@@ -47,6 +48,7 @@ font-size: 12px;
 color: var(--colorVerde);
 align-self: center;
 }
+
 .main__arcticulo__descripcion{
     display: flex;
     justify-content: space-between;
