@@ -26,3 +26,6 @@
     margin-bottom: 20px;
     margin-left: 10px;
 }
+.home__footer i:hover{
+   color: var(--colorAzul);
+}

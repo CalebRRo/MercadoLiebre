@@ -31,6 +31,11 @@
     width: 50%;
     text-align: center;
     align-self: center;
+   
+}
+.home__header--buscar button input{
+    text-decoration: none;
+    border-radius: 10px;
 }
 .home__header--buscar input{
   width: 60%;
